@@ -1,2 +1,3 @@
-import ComponentTemplate from "./template.vue";
-export default ComponentTemplate;
+import ImageHover from "./image.vue";
+import './image.less';
+export default ImageHover;

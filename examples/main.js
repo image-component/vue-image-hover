@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import ComponentTemplate from '../src'
-Vue.component('component-template', ComponentTemplate)
+import ImageHover from '../src'
+Vue.component('image-hover', ImageHover)
 
 Vue.config.productionTip = false
 
